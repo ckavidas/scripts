@@ -6,7 +6,7 @@ ___
 
 ### Requirements:
 
-* Exported Mardkwon from Joplin
+* Exported Markdown from Joplin
 * header.md file in your present working directory
 
 ___
